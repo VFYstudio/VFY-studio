@@ -24,9 +24,9 @@ export default function Home() {
           <a href="#shop" style={{ color: "#fff", textDecoration: "none" }}>
             Shop
           </a>
-          <a href="#about" style={{ color: "#fff", textDecoration: "none" }}>
-            About
-          </a>
+          <a href="/about" style={{ color: "#fff", textDecoration: "none" }}>
+  About
+</a>
           <a href="#contact" style={{ color: "#fff", textDecoration: "none" }}>
             Contact
           </a>
